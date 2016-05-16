@@ -39,5 +39,9 @@ else:
             "action": "run",
             "trigger": "notification",
             "priority":1
+        }, {
+            "action": "run",
+            "trigger": "email",
+            "priority":1
         }]
     print json.dumps(register)
