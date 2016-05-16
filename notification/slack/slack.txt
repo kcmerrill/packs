@@ -1,0 +1,7 @@
+{
+    "to": "@kcmerrill",
+    "from": "kcmerrill",
+    "icon_emoji": ":robot_face:",
+    "message": "My slack message!",
+    "token": "xoxp-something-something-something"
+}

@@ -1,0 +1,6 @@
+{
+"to": ["kcmerrill@gmail.com"],
+"from": "artoo@kcmerrill.com",
+"subject": "This is just a test of a pack!",
+"message": "This is my message! Pretty sweet\nNewline!"
+}
